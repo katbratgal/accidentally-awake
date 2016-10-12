@@ -43,7 +43,7 @@ ul, ol, dl, figure,
  * Articles
  */
 article {
-    background: #faf9f5;
+    background: #1d1d1d;
     box-shadow: 2px 2px 6px rgba(0, 0, 0, 0.05);
     margin-bottom: $spacing-unit;
     padding: 3em 3em 1em;
@@ -86,12 +86,12 @@ article {
 }
 
 .post-header {
-    border-bottom: 1px solid #d9d6d0;
+    border-bottom: 1px solid #f9bcf8;
     margin-bottom: 2rem;
     text-align: center;
 
     &:before {
-        background: #faf9f5;
+        background: #1a1a18;
         border: 1px solid #d9d6d0;
         border-radius: 50%;
         box-shadow: 0 0 0 4px #faf9f5;
