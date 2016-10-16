@@ -184,7 +184,13 @@
 
 #post-nav {
     display: block;
-    padding: 0 2em;
+    // padding: 0 2em;
+
+    &:after {
+      content: "";
+      display: table;
+      clear: both;
+    }
 
     .next,
     .previous {
@@ -237,6 +243,7 @@
         font-size: 0.75rem;
         font-style: normal;
         letter-spacing: 1px;
+        margin: 0 -6px;
         text-transform: uppercase;
     }
 
