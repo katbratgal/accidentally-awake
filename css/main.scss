@@ -7,7 +7,7 @@
 
 // Font variables
 $font-name: libretto-icons;
-$font-path-file-name: {{ site.baseurl }}/assets/fonts/$font-name/$font-name;
+$font-path-file-name: "{{ site.baseurl }}/assets/fonts/#{$font-name}/#{$font-name}";
 
 @font-face {
     font-family: $font-name;
@@ -44,7 +44,7 @@ $content-width:    800px;
 $on-palm:          600px;
 $on-laptop:        800px;
 
-$assets-path: {{ site.baseurl }} + '/assets/';
+$assets-path:  '{{ site.baseurl }}/assets/';
 
 
 // Use media queries like this:

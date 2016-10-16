@@ -26,6 +26,7 @@ body {
     background-image: url($assets-path + 'purplestarspexels-photo-107956.jpeg');
     background-size: cover;
     background-attachment: fixed;
+    background-position: 50%;
 }
 
 
@@ -46,7 +47,7 @@ ul, ol, dl, figure,
  * Articles
  */
 article, #disqus_thread {
-    background: #1d1d1d;
+    background: rgba(29, 29, 29, .9);
     box-shadow: 2px 2px 6px rgba(0, 0, 0, 0.05);
     margin-bottom: $spacing-unit;
     padding: 3em 3em 1em;
