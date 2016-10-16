@@ -23,6 +23,8 @@ url: "https://accidentally-awake.com" # the base hostname & protocol for your si
 # github_username:    jekyll
 # instagram_username: jekyllrb
 # twitter_username:   jekyllrb
+paginate: 4
+paginate_path: "/page/:num"
 permalink: /:year-:month/:title
 repository: katbratgal/jekyll-theme-libretto
 
