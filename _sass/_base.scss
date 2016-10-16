@@ -23,6 +23,9 @@ body {
     -o-font-feature-settings: "kern" 1;
     font-feature-settings: "kern" 1;
     font-kerning: normal;
+    background-image: url($assets-path + 'purplestarspexels-photo-107956.jpeg');
+    background-size: cover;
+    background-attachment: fixed;
 }
 
 
@@ -42,7 +45,7 @@ ul, ol, dl, figure,
 /**
  * Articles
  */
-article {
+article, #disqus_thread {
     background: #1d1d1d;
     box-shadow: 2px 2px 6px rgba(0, 0, 0, 0.05);
     margin-bottom: $spacing-unit;
@@ -52,7 +55,12 @@ article {
         padding: 1em 1em 0.3em;
     }
 
+    .post-title {
+      color: $brand-color;
+    }
+
     > .entry-content {
+        text-align: justify;
         @include media-query($on-palm) {
             font-size: 80%;
         }
@@ -75,35 +83,60 @@ article {
         }
 
         &:first-line {
-            color: #787065;
-            font-family: "Playfair Display SC";
+            // color: #787065;
+            // font-family: "Playfair Display SC";
             font-size: 1em;
             font-style: normal !important;
             font-weight: bold;
-            letter-spacing: 2px;
+            // letter-spacing: 2px;
+        }
+
+        p:first-of-type {
+          letter-spacing: 1.8px;
         }
     }
 }
 
+.text-justify {
+  text-align: justify;
+}
+
+.post-image {
+  border: 1px solid $brand-color;
+  background-size: cover;
+  height: 300px;
+  background-position: 50%;
+  margin-bottom: 18px;
+}
+
 .post-header {
-    border-bottom: 1px solid #f9bcf8;
+    border-bottom: 1px solid $brand-color;
     margin-bottom: 2rem;
     text-align: center;
+    // remove icon above post
+    // &:before {
+    //     background: #1a1a18;
+    //     border: 1px solid #d9d6d0;
+    //     border-radius: 50%;
+    //     box-shadow: 0 0 0 4px #faf9f5;
+    //     color: #a09a92;
+    //     content: "p";
+    //     display: inline-block;
+    //     font-family: libretto-icons;
+    //     font-size: 21px;
+    //     line-height: 21px;
+    //     margin: 1rem auto 2rem;
+    //     padding: 10px;
+    //     text-shadow: none;
+    // }
 
-    &:before {
-        background: #1a1a18;
-        border: 1px solid #d9d6d0;
-        border-radius: 50%;
-        box-shadow: 0 0 0 4px #faf9f5;
-        color: #a09a92;
-        content: "p";
-        display: inline-block;
-        font-family: libretto-icons;
-        font-size: 21px;
-        line-height: 21px;
-        margin: 1rem auto 2rem;
-        padding: 10px;
-        text-shadow: none;
+    > p {
+      color: $grey-color;
+      font-size: $base-font-size;
+      font-style: italic;
+      &.byline {
+        margin-top: -10px;
+      }
     }
 
     > div {
@@ -219,7 +252,7 @@ a {
     text-decoration: none;
 
     &:hover {
-        color: darken($brand-color, 5%);
+        color: darken($brand-color, 10%);
         text-decoration: none;
     }
 }

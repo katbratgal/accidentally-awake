@@ -13,19 +13,31 @@ layout: default
 						<span>Posted on </span><span class="post-meta">{{ post.date | date: "%B %-d, %Y" }}</span>
 					</div>
 
+					<p class="byline">
+						by {{ site.author }}
+					</p>
+
 					<h2>
 						<a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
 					</h2>
 				</header>
-
+				{% if post.image %}
+					<div class="post-image" style="background-image: url('{{site.baseurl}}/assets/{{post.image}}')"></div>
+				{% endif %}
 				<div class="entry-content">
-					{{ post.content }}
+					{% if post.content contains '<!--more-->' %}
+            {{ post.content | split:'<!--more-->' | first }}
+          {% else %}
+            {{ post.excerpt }}
+          {% endif %}
+          <p>
+						<a href="{{ post.url | prepend: site.baseurl }}">read more</a>
+          </p>
 				</div>
 			</article>
 		</li>
 		{% endfor %}
 	</ul>
 
-	<p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
 
 </div>

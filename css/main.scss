@@ -29,10 +29,10 @@ $small-font-size:  $base-font-size * 0.875;
 
 $spacing-unit:     30px;
 
-$brand-color:      #52524f;
+$brand-color:      rgba(#f9bcf8, 0.92);
 $background-color: #d2d0cd;
 $text-color:       #ede9e4;
-$title-color:      #f9bcf8;
+$title-color:      $brand-color;
 
 $grey-color:       #a09a92;
 $grey-color-light: lighten($grey-color, 30%);
@@ -44,6 +44,7 @@ $content-width:    800px;
 $on-palm:          600px;
 $on-laptop:        800px;
 
+$assets-path: {{ site.baseurl }} + '/assets/';
 
 
 // Use media queries like this:
