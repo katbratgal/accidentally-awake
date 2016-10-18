@@ -46,7 +46,7 @@ ul, ol, dl, figure,
 /**
  * Articles
  */
-article, #disqus_thread {
+article, #disqus_thread, .pagination {
     background: rgba(29, 29, 29, .9);
     box-shadow: 2px 2px 6px rgba(0, 0, 0, 0.05);
     margin-bottom: $spacing-unit;
@@ -96,6 +96,15 @@ article, #disqus_thread {
           letter-spacing: 1.8px;
         }
     }
+}
+
+.pagination {
+  text-align: center;
+  font-size: 110%;
+  padding-top: 1em;
+  @include media-query($on-palm) {
+      padding-top: 0.3em;
+  }
 }
 
 .text-justify {

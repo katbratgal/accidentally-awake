@@ -253,7 +253,28 @@
     }
 }
 
+.pagination {
 
+  .previous:before, .next:after {
+    border: solid transparent 6px;
+    content: "";
+    display: inline-block;
+    height: 0;
+    margin: 0 0.5rem;
+    top: 0.8em;
+    width: 0;
+  }
+
+  .previous:before {
+    border-left: 0;
+    border-right-color: $brand-color;
+  }
+
+  .next:after {
+    border-left-color: $brand-color;
+    border-right: 0;
+  }
+}
 
 /**
  * Table of Contents
