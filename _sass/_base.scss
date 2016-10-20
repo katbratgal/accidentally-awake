@@ -154,9 +154,7 @@ article, #disqus_thread, .pagination {
         font-size: $base-font-size;
         font-style: italic;
 
-        @include media-query($on-palm) {
-            font-size: $small-font-size;
-        }
+
 
         &:before {
             color: #d9d6d0;
@@ -178,6 +176,12 @@ article, #disqus_thread, .pagination {
             margin: 0 0.25rem;
             text-shadow: none;
             vertical-align: -6px;
+        }
+        @include media-query($on-palm) {
+            font-size: $small-font-size;
+            &:before, &:after {
+              display: none;
+            }
         }
     }
 }
