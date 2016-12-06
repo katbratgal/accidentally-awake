@@ -5,7 +5,7 @@ date:   2016-11-22 11:11:11 +0100
 image: koala1.jpg
 ---
 
-Before you wake up, you need to be asleep. Though not exactly a step in the awakening process, the pre-awakening phase is the suspension of consciousness, the state of dreaming of a better life before the sounding of the alarm clock.
+Before you wake up, you need to be asleep. Though not exactly [a step in the awakening process](https://accidentally-awake.com/2016-11/waking-up), the pre-awakening phase is the suspension of consciousness, the state of dreaming of a better life before the sounding of the alarm clock.
 
 *Not everyone goes through stages or these stages in this order. Some may not find the process divided into steps. And others may skip stages. Waking up is personal and unique. These stages are about what I went through, and how I coped. Many symptoms and emotions eclipsed several stages, and I am generally speaking of when such events began. Symptoms may have started or will start at different stages for you. The transition between stages can be gentle and prolonged or can be sudden and remarkable.*
 
