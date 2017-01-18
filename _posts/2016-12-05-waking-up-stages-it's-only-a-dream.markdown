@@ -45,4 +45,4 @@ If the person has enough self-awareness that they are inhibiting their growth, t
 
 ### Stuck in the pre-awakening stage?
 
-Forcing an awakening to happen may not be possible. Waking up tends to happen when it happens, when you are meeting milestones in your life. Once you do wake up, you'll see the purpose of each event in your life and how it plays into your transition to consciousness. Awakenings can come (sort-of) quietly and are easy to handle. Then, there are those that come with an obnoxiously loud beeping. And that is the next stage we will talk about next, the alarm that forces you to wake up--the catalyst.
+Forcing an awakening to happen may not be possible. Waking up tends to happen when it happens, when you are meeting milestones in your life. Once you do wake up, you'll see the purpose of each event in your life and how it plays into your transition to consciousness. Awakenings can come (sort-of) quietly and are easy to handle. Then, there are those that come with an obnoxiously loud beeping. And that is the next stage we will talk about next, the alarm that forces you to wake up--[the catalyst](/2017-01/waking-up-stages-beep-beep-beep).
