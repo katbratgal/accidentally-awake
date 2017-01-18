@@ -5,7 +5,7 @@ date:   2016-11-07 11:11:11 +0100
 image: roadphoto1.jpg
 ---
 
-The most frustrating thing about [writing a blog](https://accidentally-awake.com/2016-10/spiritual-awakening) on spiritual awareness is how limited I would be using the second-person point of view. That is, speaking directly to you, the reader, rather than rambling on in first-person like a narc. To be honest, these "I"s I use so often in this blog have me in knots. I'm not a "look at me!" kind of person. Putting my story on here hasn't been easy. But that's what awakenings do. They make you do things that you would never do before.
+The most frustrating thing about [writing a blog](/2016-10/spiritual-awakening) on spiritual awareness is how limited I would be using the second-person point of view. That is, speaking directly to you, the reader, rather than rambling on in first-person like a narc. To be honest, these "I"s I use so often in this blog have me in knots. I'm not a "look at me!" kind of person. Putting my story on here hasn't been easy. But that's what awakenings do. They make you do things that you would never do before.
 
 While this blog does serve a purpose in healing my social anxiety, there is a bigger reason why I write so personally.
 

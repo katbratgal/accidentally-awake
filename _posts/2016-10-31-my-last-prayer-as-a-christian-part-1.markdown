@@ -29,4 +29,4 @@ How could God refuse my request for this gift and give me a snake or scorpion in
 
 It had to be.
 
-[Click here for Part 2](https://accidentally-awake.com/2016-11/my-last-prayer-as-a-christian-part-2)
+[Click here for Part 2](/2016-11/my-last-prayer-as-a-christian-part-2)

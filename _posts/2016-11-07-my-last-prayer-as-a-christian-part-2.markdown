@@ -8,7 +8,7 @@ image: mountainphoto1.jpg
 It was the biggest prayer of my life. I wanted to believe in a God who could not be contained in 66 books. I wanted to believe in unconditional love and forgiveness. I wanted to emulate that God, because I wanted to believe peace was in the surrender of selfishness.
 <!--more-->
 
-After my prayer in [My Last Prayer as a Christian Part 1](https://accidentally-awake.com/2016-10/my-last-prayer-as-a-christian-part-1), I put away researching theology for a few days. There were no more questions that needed answers. I had no yearning for truth; I was relaxing in my faith. But one night, one last question surfaced and refused to be ignored.
+After my prayer in [My Last Prayer as a Christian Part 1](/2016-10/my-last-prayer-as-a-christian-part-1), I put away researching theology for a few days. There were no more questions that needed answers. I had no yearning for truth; I was relaxing in my faith. But one night, one last question surfaced and refused to be ignored.
 
 Grudgingly, I got out the laptop. With a groan, I opened up a browser. It was a tough question to search for, but I did my best translating into the search engine the question now searing in my mind.
 
