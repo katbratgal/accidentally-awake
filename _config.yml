@@ -22,7 +22,8 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://accidentally-awake.com" # the base hostname & protocol for your site
 # github_username:    jekyll
 # instagram_username: jekyllrb
-# twitter_username:   jekyllrb
+twitter_username:   ThatgalKellyGal
+facebook_username: Kelly-Marie-Gal-140667646408959
 paginate: 4
 paginate_path: "/page/:num"
 permalink: /:year-:month/:title
