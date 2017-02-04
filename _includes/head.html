@@ -6,9 +6,9 @@
 	<meta name="twitter:card" content="summary_large_image">
 	<meta name="twitter:site" content="@{{ site.twitter_username }}">
 
-	{% if page.thumbnail %}
-	<meta property="og:image" content="{{ site.url }}{{ site.baseurl }}/assets/{{ page.thumbnail }}">
-	<meta name="twitter:image" content="{{ site.url }}{{ site.baseurl }}/assets/{{ page.thumbnail }}">
+	{% if page.image %}
+	<meta property="og:image" content="{{ site.url }}{{ site.baseurl }}/assets/{{ page.image }}">
+	<meta name="twitter:image" content="{{ site.url }}{{ site.baseurl }}/assets/{{ page.image }}">
 
 	{% else %}
 	<meta property="og:image" content="{{ site.url }}{{ site.baseurl }}/thumbnail.jpg">
