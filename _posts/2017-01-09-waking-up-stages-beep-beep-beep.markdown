@@ -41,4 +41,4 @@ Getting sleep, embracing emotions, and focusing on your needs are the most impor
 
 ### Stuck in the catalyst stage?
 
-Fortunately, this stage will pass as the shock of the sudden change of events wears off. The newly awake begins to get in touch with their feelings, and a new phase begins. The beeping of the alarm is still loud and strong, but through groggy, blurry eyes, you begin to see reality through a new lens. During this phase, you have a choice to make--wake up or try go back to sleep.
+Fortunately, this stage will pass as the shock of the sudden change of events wears off. The newly awake begins to get in touch with their feelings, and a new phase begins. The beeping of the alarm is still loud and strong, but through groggy, blurry eyes, you begin to see reality through a new lens. During this phase, you have a choice to make--[wake up or try go back to sleep](/2017-02/waking-up-stages-waking-up-is-hard-to-do).
