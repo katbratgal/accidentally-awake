@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "My Last Prayer as a Christian Part 1"
-date:   2016-10-31 11:11:11 +0100
+date:   2016-10-25 11:11:11 +0100
 image: churchphoto1.jpg
 ---
 
@@ -29,4 +29,4 @@ How could God refuse my request for this gift and give me a snake or scorpion in
 
 It had to be.
 
-Part 2 to be continued next week...
+[Click here for Part 2](/2016-11/my-last-prayer-as-a-christian-part-2)
